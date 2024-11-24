@@ -9,7 +9,7 @@ if (mysqli_connect_errno()) {
 
 function base_url($url = null)
 {
-    $base_url = "http://localhost/sistempakargizianak_metode_navie_bayes-master";
+    $base_url = "http://localhost/sistempakargizianak_metode_navie_bayes-master-php";
     if ($url != null) {
         return $base_url . "/" . $url;
     } else {

@@ -1,11 +1,10 @@
-# Repository-Baru
-# sistempakargiziburukpadaanak
-# sistempakargizi
-# sistempakargiziburukpadaanak
-#� �s�i�s�t�e�m�p�a�k�a�r�g�i�z�i�
-�
-�# sistempakargizianak
-# sitempakargizianak
-# sitempakargizianak
-# metodenaviebayes
-# sistempakarmetodenaviebayes
+db name : sistempakargiziburuk
+# sistempakargizianak_metode_navie_bayes-master-php
+
+![Dashboard](asset/assets/img/dashboard.png)
+*Tampilan Dashboard*
+
+---
+
+**Email Admin:** admin 
+**Password:** admin
